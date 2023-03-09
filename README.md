@@ -6,6 +6,7 @@ Risorse:
 Icone di Bootstrap: https://icons.getbootstrap.com/ Icone Feather: https://feathericons.com/
 Font principale: https://fonts.google.com/specimen/Inter?query=inter
 
-![Uploading desktop.png…]()
+![desktop](https://user-images.githubusercontent.com/117526559/224179996-e92639f3-3259-4a6c-98ad-ebfdd8a443ea.png)
+
 ![mobile](https://user-images.githubusercontent.com/117526559/224179795-7a1afaff-519e-410a-80e3-b70f8e9c71ba.png)
 ![extra](https://user-images.githubusercontent.com/117526559/224179807-02f1a1b6-0275-4b7c-92d9-fb26a07fb8b3.png)
