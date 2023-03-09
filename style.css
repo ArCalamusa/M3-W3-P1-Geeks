@@ -2,3 +2,13 @@
     background-color: #7431fa;
 }
 
+body {
+    padding-top: 4.5%;
+    background-color: lightgray;
+    font-family: 'Inter', sans-serif;
+}
+
+nav {
+    background-color: white;
+    width: 100%;
+}
